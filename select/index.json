@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Pick Your Poison",
+  "base_artist": "Knox",
+  "createdAt": "2026-02-23T09:00:08.207581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Once Human",
+      "has_synced": true,
+      "path": "select/01_Pick_Your_Poison_Once_Human.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PICK YOUR POISON (feat. Stormzy)",
+      "artist": "Bree Runway feat. Stormzy",
+      "has_synced": false,
+      "path": "select/02_PICK_YOUR_POISON_(feat._Stormzy)_Bree_Runway_feat._Stormzy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PICK YOUR POISON (feat. Stormzy)",
+      "artist": "Bree Runway/Stormzy",
+      "has_synced": false,
+      "path": "select/03_PICK_YOUR_POISON_(feat._Stormzy)_Bree_Runway_Stormzy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Beartooth",
+      "has_synced": true,
+      "path": "select/04_Pick_Your_Poison_Beartooth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Tankhead feat. Ikabod Veins",
+      "has_synced": true,
+      "path": "select/05_Pick_Your_Poison_Tankhead_feat._Ikabod_Veins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Black Pistol Fire",
+      "has_synced": true,
+      "path": "select/06_Pick_Your_Poison_Black_Pistol_Fire.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Tankhead & Ikabod Veins",
+      "has_synced": true,
+      "path": "select/07_Pick_Your_Poison_Tankhead_&_Ikabod_Veins.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Lil Durk",
+      "has_synced": false,
+      "path": "select/08_Pick_Your_Poison_Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pick Your Poison feat. Kay",
+      "artist": "Datsik, Diplo & Kay",
+      "has_synced": false,
+      "path": "select/09_Pick_Your_Poison_feat._Kay_Datsik,_Diplo_&_Kay.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pick Your Poison feat. Kay",
+      "artist": "Diplo, Datsik, Kay",
+      "has_synced": false,
+      "path": "select/10_Pick_Your_Poison_feat._Kay_Diplo,_Datsik,_Kay.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "TankHead & Ikabod Veins",
+      "has_synced": true,
+      "path": "select/11_Pick_Your_Poison_TankHead_&_Ikabod_Veins.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Blxst feat. Grandmaster Vic",
+      "has_synced": true,
+      "path": "select/12_Pick_Your_Poison_Blxst_feat._Grandmaster_Vic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Blxst & Grandmaster Vic",
+      "has_synced": true,
+      "path": "select/13_Pick_Your_Poison_Blxst_&_Grandmaster_Vic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Outline In Color",
+      "has_synced": false,
+      "path": "select/14_Pick_Your_Poison_Outline_In_Color.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Twisted Insane feat. Charles Xavier",
+      "has_synced": true,
+      "path": "select/15_Pick_Your_Poison_Twisted_Insane_feat._Charles_Xavier.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Diplo & Datsik feat. Kay",
+      "has_synced": true,
+      "path": "select/16_Pick_Your_Poison_Diplo_&_Datsik_feat._Kay.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Tankhead",
+      "has_synced": true,
+      "path": "select/17_Pick_Your_Poison_Tankhead.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Pick Your Poison",
+      "artist": "Twisted Insane",
+      "has_synced": true,
+      "path": "select/18_Pick_Your_Poison_Twisted_Insane.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pick Your Poison",
+      "artist": "Knox",
+      "has_synced": false,
+      "path": "select/pl_01_Pick_Your_Poison_Knox.txt"
+    }
+  ]
+}
